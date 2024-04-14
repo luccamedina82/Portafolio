@@ -60,7 +60,7 @@
 
 .lucca-img > div > img {
     border-radius: 50px;
-    width: 26rem;
+    width: 25rem;
     transition:  all 0.6s ease;
 }
 
@@ -151,7 +151,7 @@
         gap: 1rem;
     }
     .lucca-img > div {
-        width: 1rem;
+        gap: 1rem;
     }
     .tech-icon > div > img{
         width: 16rem;
@@ -164,4 +164,11 @@
         width: 2rem;
     }
 
+}
+
+
+@media (max-width: 427px) {
+    .lucca-img > div > img {
+        width: 16rem;
+    }
 }

@@ -20,19 +20,19 @@ const Navbar = () => {
 
                     <ul>
                         <li>
-                            <a className="menu-item">Lucca</a>
+                            <a className="menu-item">Home</a>
                         </li>
                         <li>
-                            <a className="menu-item">Capacidad tecnica</a>
+                            <a className="menu-item">Capacidad</a>
                         </li>
                         <li>
-                            <a className="menu-item">Experiencia laboral</a>
+                            <a className="menu-item">Experiencia</a>
                         </li>
                         <li>
                             <a className="menu-item">Contactame</a>
                         </li>
                         <button className="contact-btn" onClick={() => {}}>
-                            Contratarme
+                            Contratar
                         </button>
                     </ul>
 

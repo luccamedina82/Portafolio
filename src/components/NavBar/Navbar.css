@@ -1,13 +1,10 @@
-
-
 .nav-wrapper {
     background: rgba(0,0,0,0.1);
-    padding: 0.5rem;
+    padding: 0.5rem 0;
     position: sticky;
     top: 0;
     z-index: 30;
     backdrop-filter: blur(50px);
-
 }
 
 .nav-content {
@@ -45,7 +42,7 @@
 }
 
 .menu-item::before{
-    content: "";
+    content: " ";
     width: 2rem;
     height: 0.2rem;
     background: linear-gradient(90deg, #a993fe 0%, #7e61e7 100%);
@@ -115,7 +112,7 @@
     }
 }
 
-@media (max-width: 769px) {
+@media (max-width: 900px) {
     .menu-btn {
         display: block;
     }
@@ -130,3 +127,4 @@
         padding: 0 2rem;
     }
 }
+
