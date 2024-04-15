@@ -29,7 +29,7 @@ const Navbar = () => {
                             <a className="menu-item">Experiencia</a>
                         </li>
                         <li>
-                            <a className="menu-item">Contactame</a>
+                            <a className="menu-item">Contactáme</a>
                         </li>
                         <button className="contact-btn" onClick={() => {}}>
                             Contratar

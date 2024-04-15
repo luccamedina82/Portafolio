@@ -58,7 +58,7 @@ export const WORK_EXPERIENCE = [
             "Emprendimiento personal",
             "Desarrollo de una aplicación de software en .NET Core. ",
             "Permite gestionar archivos con información ganadera.",
-            "Llevando a cabo el control de versionado conGit y GitHub como herramientas."
+            "Llevando a cabo el control de versionado con Git y GitHub como herramientas."
         ]
 
     },
@@ -67,7 +67,7 @@ export const WORK_EXPERIENCE = [
         date: "2021",
         responsabilities:[
             "Alev es una empresa que creamos en el colegio en la cual comercializábamos velas.",
-            "Las velas eran producidas por nosotros",
+            "Eran 100% hechas producidas por nosotros",
             "Yo era parte del equipo de control de calidad y producción de las mismas.",
         ]
 
