@@ -59,7 +59,16 @@
 }
 
 @media (max-width: 768px) {
-    .skills-card span {
+    .skills-card span { 
         font-size:  0.9rem;
+    }
+}
+
+@media (max-width: 400px) {
+    .skills-card { 
+        padding: 1.5rem;
+    }
+    .skills-card span { 
+        font-size:  0.7rem;
     }
 }

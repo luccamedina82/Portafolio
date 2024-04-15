@@ -12,13 +12,13 @@ const Lucca = () => {
 
             <div className="lucca-img"> 
                 <div>
-                    <div className="tech-icon">
-                        <img src={images[0]} alt="" />
-                    </div>
                     <img src={images[1]} alt="" />
                 </div>
 
                 <div>
+                    <div className="tech-icon">
+                            <img src={images[0]} alt="" />
+                    </div>
                     <div className="tech-icon">
                         <img src={images[2]} alt="" />
                     </div>
